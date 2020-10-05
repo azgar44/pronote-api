@@ -70,7 +70,7 @@ Sinon, l'API propose de se connecter à Pronote avec des comptes des académies 
 ### Librairie
 
 ```
-$ npm i --save pronote-api
+$ npm i -g pronote-api //pour le serveur GraphQL
 ```
 
 ```javascript
